@@ -1,6 +1,6 @@
 # Arquitetura da Solução
 
-As resquests e response do aplicativo com o servidor serão feitas através de API desenvolvida na linguagem C#, utilizando a plataforma .Net.
+As requests e responses do aplicativo com o servidor serão feitas através de API desenvolvida na linguagem C#, utilizando a plataforma .Net.
 
 A imagem a seguir ilustra o processo:
 
@@ -29,7 +29,7 @@ O modelo a seguir demonstra o esquema das tabelas para um Banco de Dados Relacio
 ![DaTerra-Esquema-Relacional.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-da-terra/blob/main/entregas/images/diagramas/DaTerra-Esquema-Relacional.png)
 
 ## Modelo Físico
-Os scritps SQL e DML podem ser encontrados em:
+Os scripts SQL e DML podem ser encontrados em:
 [Scripts](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-da-terra/tree/teste/terra/src/DBService)
 
 
